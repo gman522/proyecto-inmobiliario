@@ -83,7 +83,8 @@ Realtor	       |          Corredora o agente asociado a la publicación, cuando 
 
 El primer dataset contiene 7.779 registros, mientras que el segundo contiene 9.291 registros, para un total de 17.070 registros antes de cualquier proceso de limpieza, validación o eliminación de duplicados.
 
-Instrucciones de ejecucion:
+Instrucciones de ejecucion
+-
 Paso 1: Instalar Streamlit usando python -m
 En lugar de llamar a streamlit directamente, ejecutamos la instalación a través de la carpeta oficial de Python
 
