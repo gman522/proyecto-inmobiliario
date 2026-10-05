@@ -85,14 +85,14 @@ El primer dataset contiene 7.779 registros, mientras que el segundo contiene 9.2
 
 Instrucciones de ejecucion:
 Paso 1: Instalar Streamlit usando python -m
-En lugar de llamar a streamlit directamente, ejecuta la instalación a través de la carpeta oficial de Python:
+En lugar de llamar a streamlit directamente, ejecutamos la instalación a través de la carpeta oficial de Python
 
-PowerShell
+En PowerShell
 python -m pip install streamlit pandas plotly
-(Si usas Python 3 con otro comando, también puedes probar con py -m pip install streamlit pandas plotly).
+(Si usamos Python 3 con otro comando, también se puede probar con py -m pip install streamlit pandas plotly).
 
 Paso 2: Ejecutar la aplicación usando python -m
-Una vez terminada la instalación, ejecuta el servidor de Streamlit anteponiendo python -m:
+Una vez terminada la instalación, ejecutamos el servidor de Streamlit anteponiendo python -m
 
-PowerShell
+En PowerShell quedaría:
 python -m streamlit run app.py
